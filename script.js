@@ -14,5 +14,5 @@ if (!isNaN(input)) {
     console.log("Not divisible by both 2 and 3!");
   }
 } else {
-  console.log("Not a number! Enter a number");
+  console.log("Not a number! \nEnter a number");
 }
